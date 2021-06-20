@@ -1,4 +1,4 @@
-var num=prompt("Hii Nishanth!! , enter num value:");
+var num=prompt("Enter num value:");
 var n=num/100;
 var m=num%100;
 var a1=Math.floor(n);
