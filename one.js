@@ -13,7 +13,7 @@ var a1=Math.floor(n);
 // document.write(a3);
 var i=0;
 
-for(i=0;i<5;i++){
+for(i=0;i<3;i++){
 
  var num2=prompt("Please enter a 3 digit number");
 //    document.write(" ");
